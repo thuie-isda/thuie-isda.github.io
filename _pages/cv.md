@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "About the Principal"
 permalink: /cv/
 author_profile: true
 redirect_from:
