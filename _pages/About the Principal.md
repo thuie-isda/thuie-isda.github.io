@@ -11,30 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D., Industrial Systems Engineering and Management, National University of Singapore, 2017
+* Visiting student, Industrial & Systems Engineering, Georgia Institute of Technology, 2016
+* B.E., Electronic Science and Technology, Tianjin University, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Associate Professor, Industrial Engineering, Tsinghua University, 2020
+* Assistant Professor, Industrial Engineering, Tsinghua University, 2018
+* postdoctor, Information System, Singapore Management University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
