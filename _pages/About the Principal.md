@@ -9,13 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-## Zhang Chen
+## ZHANG, Chen
 
 ![chenzhang](/images/chenzhang.png)
 
-**Associate Professor**  
-**Department of Industrial Engineering**  
-**Tsinghua University**  
+**==Associate Professor==**  
+Department of Industrial Engineering，Tsinghua University  
   
 **Address:** 602 Shunde building, Tsinghua University, Beijing, 100084  
 **Tel:** +86-10-62796135,  
