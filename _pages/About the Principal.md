@@ -13,14 +13,15 @@ redirect_from:
 
 ![chenzhang](/images/chenzhang.png)
 
-**Associate Professor**
-Department of Industrial Engineering
-Tsinghua University
+**Associate Professor**  
+**Department of Industrial Engineering**  
+**Tsinghua University**  
+  
+**Address:** 602 Shunde building, Tsinghua University, Beijing, 100084  
+**Tel:** +86-10-62796135,  
+**Email:** zhangchen01@tsinghua.edu.cn  
+**Personal website:** http://www.ie.tsinghua.edu.cn/zhangchen  
 
-* **Address:** 602 Shunde building, Tsinghua University, Beijing, 100084
-* **Tel:** +86-10-62796135,  
-* **Email:** zhangchen01@tsinghua.edu.cn
-* **Personal website:** http://www.ie.tsinghua.edu.cn/zhangchen
 
 ## Research Interest
 + Statistical modeling and monitoring for complex systems
