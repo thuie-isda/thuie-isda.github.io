@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Zhang Chen
+## Zhang Chen
 
 ![chenzhang](/images/chenzhang.png)
 
