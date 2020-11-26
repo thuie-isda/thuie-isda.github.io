@@ -8,6 +8,3 @@ date: 2019-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. 
-
-
