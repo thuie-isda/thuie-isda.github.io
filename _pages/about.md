@@ -7,16 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## Home
+We focus on artificial intelligent technologies for system informatics and data analytics, with the objective to develop systematic analytical methodologies for effective inference and performance improvement for complex data. The methodologies comprise both theoretical and applied aspects of statistics and machine learning, including (i) effective information extraction, online change detection and adaptive sampling for high dimensional structured data; (ii) system control, intelligent overall decision-making, and data fusion techniques with domain knowledge integration for industrial applications such as semiconductor manufacturing, aircraft manufacturing and transportation systems. 
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
-======
-We are now looking for self-motivated Ph.D. students with strong math and coding background. I am also hiring Postdoc, Research Assistants/Associates for exciting machine learning research and industry-scale data science project. Interested applicants, please email your CV to: zhangchen01@tsinghua.edu.cn
-
-
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## Research Opportunities and Job Vacancy
+*We are looking for self-motivated Ph.D. students, Postdoc, Research Assistants/Associates with strong math and coding background for machine learning research and industry-scale data science project. We are also recruiting undergraduate students who would like to be devoted to machine learning research in future. Interested applicants, please email your CV to: zhangchen01@tsinghua.edu.cn*
 
 Getting started
 ======
@@ -47,6 +42,3 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
