@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "indusitral statistics and data analytics lab"
+title                    : "Industrial Statistics and Data Analytics Lab"
 title_separator          : "-"
 name                     : &name "isda"
-description              : &description "indusitral statistics and data analytics lab, department of industrial engineering, Tsinghua University"
+description              : &description "Industrial Statistics and Data Analytics Lab, department of industrial engineering, Tsinghua University"
 url                      : https://thuie-isda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thuie-isda.github.io"
