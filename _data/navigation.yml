@@ -1,10 +1,11 @@
 # main links links
 main:
-  - title: "About the Principal"
-    url: /About the Principal/  
-    
+
   - title: "Publications"
     url: /publications/
+    
+  - title: "About the Principal"
+    url: /About the Principal/   
     
   - title: "People"
     url: /teaching/  
