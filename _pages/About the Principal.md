@@ -13,7 +13,7 @@ redirect_from:
 
 ![chenzhang](/images/chenzhang.png)
 
-==Associate Professor== 
+`Associate Professor`  
 Department of Industrial Engineering，Tsinghua University  
   
 **Address:** 602 Shunde building, Tsinghua University, Beijing, 100084  
