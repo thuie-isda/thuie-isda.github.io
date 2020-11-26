@@ -11,7 +11,7 @@ redirect_from:
 
 ### Zhang Chen
 
-
+![chenzhang](/images/chenzhang.png)
 
 Associate Professor 
 Department of Industrial Engineering, 
