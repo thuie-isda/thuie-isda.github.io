@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Online Learning for Partially Observable Multisensor Sequential Change Detection"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2019-10-01
+venue: '33rd AAAI Conference on Artificial Intelligence 2019'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Zhang,C.,and Hoi,C.H.(2019).Online Learning for Partially Observable Multisensor Sequential Change Detection, 33rd AAAI Conference on Artificial Intelligence 2019. 
+[pdf](http://academicpages.github.io/files/paper2.pdf)  [code]
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
