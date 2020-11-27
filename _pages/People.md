@@ -12,7 +12,7 @@ redirect_from:
 
 ### Zhou Peng
 **Visiting Scholar**  
-<img src="/images/zhoupeng.jpeg" width="15%">  
+<img src="/images/zhoupeng.jpeg" width="20%">  
 He is currently a lecturer with the School of Mechanical Engineering, Guizhou University, Guiyang, China. His current research interests include in Statistical modeling and monitoring for complex systems, Intelligent maintenance and health management.
 
 ### Yang Xing
