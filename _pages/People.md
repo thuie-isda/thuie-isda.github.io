@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![yangxing](/images/yangxing.jpeg)
+![yangxing](/images/yangxing.jpeg!/scale/50)
 
 ### Yang Xing
 
@@ -21,6 +21,6 @@ Xing Yang received the B.S. degree in industrial engineering from Huazhong Unive
 
 **Research Assistant**
 
-![zhangjingxiang](/images/zhangjingxiang.jpeg)
+![zhangjingxiang](/images/zhangjingxiang.jpeg!/scale/50)
 
 I got my bachelor degree in Environmental Engineering from Tsinghua University. I'm now a research assistant in Tsinghua Industrial Statistics and Data Analytics Lab while pursuing my master degree in Columbia University Data Science Institute, and my research focus on casual inference in state space model.
