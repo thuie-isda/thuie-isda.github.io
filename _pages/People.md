@@ -21,6 +21,11 @@ He is currently a lecturer with the School of Mechanical Engineering, Guizhou Un
 <img src="/images/yangxing.jpeg" width="15%">  
 Xing Yang received the B.S. degree in industrial engineering from Huazhong University of Science and Technology, Wuhan, Hubei Province, China, in 2016. Currently, she is pursuing the Ph.D. degree in industrial engineering, under the supervision of Dr. Chen Zhang, with the Department of Industrial Engineering in Tsinghua University, Beijing, China. Her research interests include Bayesian network, discrete event prediction, ontology modeling
 
+### He Bingjie
+**Master Student**  
+<img src="/images/hebingjie.jpeg" width="15%">  
+I’m a graduate student in Industrial Engineering, Tsinghua University. I received my Bachelor’s degree in Tsinghua University in 2020. My research interest is transportation application, including urban flow prediction and anomaly detection.
+
 ### Zhang Jingxiang
 
 **Research Assistant**  
