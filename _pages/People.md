@@ -24,7 +24,7 @@ Xing Yang received the B.S. degree in industrial engineering from Huazhong Unive
 ### Guo Jie
 
 **Ph.D Student**  
-<img src="/images/guojie.jpeg" width="20%">  
+<img src="/images/guojie.jpeg" width="25%">  
 I received my bachelor degree in Industrial Engineering from Tsinghua University. And I’m now a Ph.D student in Industrial Engineering of Tsinghua University. My interest research area is adaptive sampling, high dimensional data monitoring and reinforce learning.
 
 ### He Bingjie
