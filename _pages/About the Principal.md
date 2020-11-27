@@ -38,4 +38,3 @@ Department of Industrial Engineering，Tsinghua University
 + Research Fellow, Information Systems, Singapore Management University, 2017- 2018
 
 
-
