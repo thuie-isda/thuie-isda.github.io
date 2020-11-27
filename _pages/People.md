@@ -23,7 +23,7 @@ Xing Yang received the B.S. degree in industrial engineering from Huazhong Unive
 
 ### He Bingjie
 **Master Student**  
-<img src="/images/hebingjie.jpeg" width="15%">  
+<img src="/images/hebingjie.jpeg" width="20%">  
 I’m a graduate student in Industrial Engineering, Tsinghua University. I received my Bachelor’s degree in Tsinghua University in 2020. My research interest is transportation application, including urban flow prediction and anomaly detection.
 
 ### Zhang Jingxiang
