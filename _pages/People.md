@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![yangxing](/images/yangxing.jpeg!/scale/50)
+<img src="/images/yangxing.jpeg" width="40%">
 
 ### Yang Xing
 
