@@ -37,4 +37,3 @@ Department of Industrial Engineering，Tsinghua University
 + Assistant Professor, Industrial Engineering, Tsinghua University, 2018 - 2020
 + Research Fellow, Information Systems, Singapore Management University, 2017- 2018
 
-
