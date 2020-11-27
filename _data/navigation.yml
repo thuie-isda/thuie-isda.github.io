@@ -15,6 +15,9 @@ main:
     
   - title: "Awards"
     url: /awards/
+   
+  - title: "Guide"
+    url: /markdown/
     
   #- title: "Portfolio"
     #url: /portfolio/
@@ -22,5 +25,4 @@ main:
   #- title: "Blog Posts"
     #url: /year-archive/
     
-  #- title: "Guide"
-    #url: /markdown/
+  
