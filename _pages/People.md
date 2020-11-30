@@ -21,6 +21,12 @@ He is currently a lecturer with the School of Mechanical Engineering, Guizhou Un
 <img src="/images/yangxing.jpeg" width="15%">  
 Xing Yang received the B.S. degree in industrial engineering from Huazhong University of Science and Technology, Wuhan, Hubei Province, China, in 2016. Currently, she is pursuing the Ph.D. degree in industrial engineering, under the supervision of Dr. Chen Zhang, with the Department of Industrial Engineering in Tsinghua University, Beijing, China. Her research interests include Bayesian network, discrete event prediction, ontology modeling
 
+### Li Wanshan  
+  
+**Ph.D Student**  
+<img src="/images/liwanshan.jpeg" width="20%">  
+Wanshan Li is currently a PhD student in the Department of Industrial Engineering, Tsinghua University, China. She received her BSc in Control Science and Engineering from Shandong University, China. Her research focuses on maintenance strategies optimization of multiple‐component systems with complex networked structure.
+
 ### Guo Jie
 
 **Ph.D Student**  
