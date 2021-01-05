@@ -44,3 +44,15 @@ I’m a graduate student in Industrial Engineering, Tsinghua University. I recei
 <img src="/images/zhangjingxiang.jpeg" width="15%">  
 I got my bachelor degree in Environmental Engineering from Tsinghua University. I'm now a research assistant in Tsinghua Industrial Statistics and Data Analytics Lab while pursuing my master degree in Columbia University Data Science Institute, and my research focus on casual inference in state space model.
 
+### Zhang Yi
+
+**Undergraduate Student**
+<img src="/images/yizhang.jpeg" width="20%">  
+Yi Zhang is an undergraduate student in the Department of Industrial Engineering of Tsinghua University. He will be a Ph.D student in Industrial Engineering of Tsinghua University in 2021. His interest research area is machine learning and deep learning with tensor method.
+
+### Xu Haijie
+
+**Undergraduate Student**
+
+<img src="/images/haijiexu.jpeg" width="20%">  
+Haijie Xu is an undergraduate student in the Department of Industrial Engineering of Tsinghua University. He is trying to figure out the research focus of his interest. It may be statistics and data analysis.
