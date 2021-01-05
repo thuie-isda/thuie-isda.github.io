@@ -46,7 +46,8 @@ I got my bachelor degree in Environmental Engineering from Tsinghua University. 
 
 ### Zhang Yi
 
-**Undergraduate Student**
+**Undergraduate Student**  
+
 <img src="/images/yizhang.jpeg" width="20%">  
 Yi Zhang is an undergraduate student in the Department of Industrial Engineering of Tsinghua University. He will be a Ph.D student in Industrial Engineering of Tsinghua University in 2021. His interest research area is machine learning and deep learning with tensor method.
 
