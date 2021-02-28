@@ -7,4 +7,4 @@ venue: '2018 IEEM'
 ---
 Wang, R.,Chen,N.and Zhang,C.(2018).Clustering Subway Station Arrival Patterns Using Weighted Dynamic Time Warping, in 2018 IEEM, pp 531-535.  
 
-[pdf](http://academicpages.github.io/files/paper3.pdf)    [code](https://github.com/thuie-isda)
+[pdf](http://academicpages.github.io/files/IEEM2018.pdf)    [code](https://github.com/thuie-isda)
