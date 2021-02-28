@@ -8,4 +8,4 @@ venue: '34th AAAI Conference on Artificial Intelligence'
 Li, Z., Yan, H., Zhang, C. and Tsung, F (2020). Tensor Completion for Weakly-dependent Data on Graph for Metro Passenger Flow Prediction,
 *Accepted*, 34th AAAI Conference on Artificial Intelligence, 2020. (2020 INFORMS QSR Section Best Student Paper Competition Finalist)
 
-[pdf](http://academicpages.github.io/files/AAAI2020.pdf)   [code]
+[pdf](http://thuie-isda.github.io/files/AAAI2020.pdf)   [code]
