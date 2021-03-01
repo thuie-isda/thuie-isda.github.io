@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "People"
-permalink: /People/
+title: "Members"
+permalink: /Members/
 author_profile: true
 redirect_from:
   - /resume
