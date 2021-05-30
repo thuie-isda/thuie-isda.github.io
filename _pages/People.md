@@ -54,6 +54,13 @@ Peiyao Liu is currently a PhD student in the Department of Industrial Engineerin
 I’m a graduate student in Industrial Engineering, Tsinghua University. I received my Bachelor’s degree in Tsinghua University in 2020. My research interest is transportation application, including urban flow prediction and anomaly detection.  
 [Research Graph](http://thuie-isda.github.io/images/何冰洁.pdf)  
 
+
+### Congyu Han  
+
+**Research Assistant**  
+<img src="/images/congyuhan.jpeg" width="25%">  
+Congyu Han is currently a Research Assistant in the Department of Industrial Engineering, Tsinghua University, China. She has graduated from the Master of Information Systems Management program (Business Intelligence & Data Analytics pathway) at Carnegie Mellon University in December 2020. Her research focuses on adaptive sampling in the context of deep learning framwork.  
+
 ### Yi Zhang  
 
 **Undergraduate Student**  
