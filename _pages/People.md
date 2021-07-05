@@ -61,9 +61,16 @@ I’m a graduate student in Industrial Engineering, Tsinghua University. I recei
 <img src="/images/congyuhan.jpeg" width="25%">  
 Congyu Han is currently a Research Assistant in the Department of Industrial Engineering, Tsinghua University, China. She has graduated from the Master of Information Systems Management program (Business Intelligence & Data Analytics pathway) at Carnegie Mellon University in December 2020. Her research focuses on adaptive sampling in the context of deep learning framwork.  
 
+### Xuming An  
+
+**Research Assistant**  
+<img src="/images/xumingan.jpeg" width="25%">  
+Xuming An is currently a Research Assistant in the Department of Industrial Engineering, Tsinghua University. He received the Master degree in Control Science and Engineering from Wuhan University in 2020. His current research interests include optimization algorithms, game theory and data-driven control of complex networked systems.  
+[Research Graph](http://thuie-isda.github.io/images/xumingan.pdf)  
+
 ### Yi Zhang  
 
-**Undergraduate Student**  
+**Ph.D Student**  
 
 <img src="/images/yizhang.jpeg" width="17%">  
 Yi Zhang is an undergraduate student in the Department of Industrial Engineering of Tsinghua University. He will be a Ph.D student in Industrial Engineering of Tsinghua University in 2021. His interest research area is machine learning and deep learning with tensor method.  
