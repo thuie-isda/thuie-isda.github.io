@@ -73,7 +73,7 @@ Xuming An is currently a Research Assistant in the Department of Industrial Engi
 **Ph.D Student**  
 
 <img src="/images/yizhang.jpeg" width="17%">  
-Yi Zhang is an undergraduate student in the Department of Industrial Engineering of Tsinghua University. He will be a Ph.D student in Industrial Engineering of Tsinghua University in 2021. His interest research area is machine learning and deep learning with tensor method.  
+Yi Zhang is an Ph.D student in the Department of Industrial Engineering of Tsinghua University. He received the Bachelor’s degree in Industrial Engineering of Tsinghua University in 2021. His interest research area is machine learning and deep learning with tensor method.  
 [Research Graph](http://thuie-isda.github.io/images/zy.pdf)  
 
 ### Haijie Xu  
