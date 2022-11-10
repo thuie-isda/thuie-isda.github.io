@@ -49,6 +49,13 @@ Haijie Xu is currently a PhD student in the Department of Industrial Engineering
 Xuming An is currently a Research Assistant in the Department of Industrial Engineering, Tsinghua University. He received the Master degree in Control Science and Engineering from Wuhan University in 2020. His current research interests include optimization algorithms, game theory and data-driven control of complex networked systems.  
 [Research Graph](http://thuie-isda.github.io/images/xumingan.pdf) 
 
+### Hao Qiu  
+*Research Assistant*   
+<img src="/images/hao qiu.jpeg" width="25%">  
+Hao Qiu is currently Research Assistant in the Department of Industrial Engineering at Tsinghua University. He holds a Master of Statistics from Rice University and a B.S. in Actuarial Science and B.S. in Economics from University of Delaware. His current research focuses on Time Series/ Spatial-Temporal data, Statistical Learning, and Stochastic Process Modeling and Estimation.  
+[Research Graph](http://thuie-isda.github.io/images/haoqiu.pdf) 
+
+
 ## ***Alumni***
 ### Peng Zhou  
 *Guizhou University*  
