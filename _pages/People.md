@@ -55,6 +55,11 @@ Xuming An is currently a Research Assistant in the Department of Industrial Engi
 Hao Qiu is currently Research Assistant in the Department of Industrial Engineering at Tsinghua University. He holds a Master of Statistics from Rice University and a B.S. in Actuarial Science and B.S. in Economics from University of Delaware. His current research focuses on Time Series/ Spatial-Temporal data, Statistical Learning, and Stochastic Process Modeling and Estimation.  
 [Research Graph](http://thuie-isda.github.io/images/haoqiu.pdf) 
 
+### Xin Xia   
+*Research Assistant*   
+<img src="/images/xinxia.jpeg" width="25%">  
+Xin Xia has graduated from the master program of Electrical and Computer Engineering in Georgia Institute of Technology in 2022 and received his bachelor degree from Tianjin University, China in 2020. He is now serving as a Research Assistant in the Department of Industrial Engineering, Tsinghua University. His research interest focuses on deep reinforcement learning and multi-modal data fusion and feature extraction based on pretrained language model.  
+[Research Graph](http://thuie-isda.github.io/images/xinxia.pdf) 
 
 ## ***Alumni***
 ### Peng Zhou  
