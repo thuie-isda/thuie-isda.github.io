@@ -18,9 +18,9 @@ author_profile: true
 
 ## ***Referred Journals and Transactions***
 ***
-1. Zhou, P., and **Zhang, C**.* (2022) Functional state-space model for multi-channel autore- gressive profiles with application in advanced manufacturing, Journal of Manufacturing Systems, https://doi.org/10.1016/j.jmsy.2022.06.014.
+1. Zhou, P., and **Zhang, C**.* (2022) Functional state-space model for multi-channel autore- gressive profiles with application in advanced manufacturing, Journal of Manufacturing Systems, <https://doi.org/10.1016/j.jmsy.2022.06.014>.
 2. Li, Z., Yan, H., **Zhang, C**., and Tsung, F. (2022) Individualized Passenger Travel Pat- tern Multi-Clustering based on Graph Regularized Tensor Latent Dirichlet Allocation, Data Mining and Knowledge Discovery, 36, pages1247–1278.
-16. Guo, J., Yan, H., and **Zhang, C**.* (2022) A Bayesian Partially Observable Online Change Detection Approach with Thompson Sampling, Technometrics, online https://doi.org/10.1080/00401706.2022.2127914.
+16. Guo, J., Yan, H., and **Zhang, C**.* (2022) A Bayesian Partially Observable Online Change Detection Approach with Thompson Sampling, Technometrics, online <https://doi.org/10.1080/00401706.2022.2127914>.
 15. Meng, H., Li, Y. F., and **Zhang, C**. (2022) Estimation of discharge voltage for lithium- ion batteries through orthogonal experiments at subzero environment, Journal of Energy Storage, 52(C), 10508.
 14. Wu, H., **Zhang, C**., and Li, Y F. (2021). Monitoring Heterogeneous Multivariate Profiles Based on Heterogeneous Graphical Model. Technometrics, 64(2), 210-223.
 16. Li, Z., Yan, H., **Zhang, C**., and Tsung, F. (2020). Long-short term spatiotemporal tensor prediction for passenger flow profile. IEEE Robotics and Automation Letters 5.4 (2020): 5010-5017. 
