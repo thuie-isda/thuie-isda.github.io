@@ -66,15 +66,7 @@ Congyu Han is currently a Research Assistant in the Department of Industrial Eng
 **Research Assistant**  
 <img src="/images/xumingan.jpeg" width="25%">  
 Xuming An is currently a Research Assistant in the Department of Industrial Engineering, Tsinghua University. He received the Master degree in Control Science and Engineering from Wuhan University in 2020. His current research interests include optimization algorithms, game theory and data-driven control of complex networked systems.  
-[Research Graph](http://thuie-isda.github.io/images/xumingan.pdf)  
-
-### Yi Zhang  
-
-**Ph.D Student**  
-
-<img src="/images/yizhang.jpeg" width="17%">  
-Yi Zhang is an Ph.D student in the Department of Industrial Engineering of Tsinghua University. He received the Bachelor’s degree in Industrial Engineering of Tsinghua University in 2021. His interest research area is machine learning and deep learning with tensor method.  
-[Research Graph](http://thuie-isda.github.io/images/zy.pdf)  
+[Research Graph](http://thuie-isda.github.io/images/xumingan.pdf)   
 
 ### Haijie Xu  
 
