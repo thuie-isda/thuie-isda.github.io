@@ -9,69 +9,59 @@ redirect_from:
 
 {% include base_path %}
 
-
-### Peng Zhou  
-**Visiting Scholar**  
-<img src="/images/zhoupeng.jpeg" width="25%">  
-He is currently a lecturer with the School of Mechanical Engineering, Guizhou University, Guiyang, China. His current research interests include in Statistical modeling and monitoring for complex systems, Intelligent maintenance and health management.
+## **PhD Students**
 
 ### Xing Yang  
-
 **Ph.D Student**  
 <img src="/images/yangxing.jpeg" width="20%">  
 Xing Yang received the B.S. degree in industrial engineering from Huazhong University of Science and Technology, Wuhan, Hubei Province, China, in 2016. Currently, she is pursuing the Ph.D. degree in industrial engineering, under the supervision of Dr. Chen Zhang, with the Department of Industrial Engineering in Tsinghua University, Beijing, China. Her research interests include Bayesian network, discrete event prediction, ontology modeling  
 [Research Graph](http://thuie-isda.github.io/images/yangxing.pdf)  
 
-
-### Wanshan Li    
-  
+### Wanshan Li      
 **Ph.D Student**  
 <img src="/images/liwanshan.jpeg" width="25%">  
 Wanshan Li is currently a PhD student in the Department of Industrial Engineering, Tsinghua University, China. She received her BSc in Control Science and Engineering from Shandong University, China. Her research focuses on maintenance strategies optimization of multiple‐component systems with complex networked structure.  
 [Research Graph](http://thuie-isda.github.io/images/lws.pdf)  
 
 ### Jie Guo  
-
 **Ph.D Student**  
 <img src="/images/guojie.jpeg" width="25%">  
-I received my bachelor degree in Industrial Engineering from Tsinghua University. And I’m now a Ph.D student in Industrial Engineering of Tsinghua University. My interest research area is adaptive sampling, high dimensional data monitoring and reinforce learning.  
+Jie Guo received her bachelor degree in Industrial Engineering from Tsinghua University. And she is now a Ph.D student in Industrial Engineering of Tsinghua University. Her interest research area is adaptive sampling, high dimensional data monitoring and reinforcement learning.  
 [Research Graph](http://thuie-isda.github.io/images/gj.pdf)  
 
-
 ### Peiyao Liu  
-
 **Ph.D Student**  
 <img src="/images/peiyaoliu.jpeg" width="25%">  
-
 Peiyao Liu is currently a PhD student in the Department of Industrial Engineering, Tsinghua University. She recieved her Bachelor's degree in Control Technology and Instruments from Tsinghua University in 2020. Her research focus on multi-channel profiles monitoring, state space modeling and deep learning.  
 [Research Graph](http://thuie-isda.github.io/images/lpy.pdf)  
 
+### Haijie Xu  
+**Ph.D Student**  
+<img src="/images/haijiexu.jpeg" width="25%">  
+Haijie Xu is currently a PhD student in the Department of Industrial Engineering of Tsinghua University. He is trying to figure out the research focus of his interest. It may be statistics and data analysis.  
+[Research Graph](http://thuie-isda.github.io/images/xhj.png) 
 
-### Bingjie He  
-
-**Master Student**  
-<img src="/images/hebingjie.jpeg" width="25%">  
-I’m a graduate student in Industrial Engineering, Tsinghua University. I received my Bachelor’s degree in Tsinghua University in 2020. My research interest is transportation application, including urban flow prediction and anomaly detection.  
-[Research Graph](http://thuie-isda.github.io/images/何冰洁.pdf)  
-
-
-### Congyu Han  
-
-**Research Assistant**  
-<img src="/images/congyuhan.jpeg" width="25%">  
-Congyu Han is currently a Research Assistant in the Department of Industrial Engineering, Tsinghua University, China. She has graduated from the Master of Information Systems Management program (Business Intelligence & Data Analytics pathway) at Carnegie Mellon University in December 2020. Her research focuses on adaptive sampling in the context of deep learning framwork.  
+## **Research Assistants**:
 
 ### Xuming An  
-
 **Research Assistant**  
 <img src="/images/xumingan.jpeg" width="25%">  
 Xuming An is currently a Research Assistant in the Department of Industrial Engineering, Tsinghua University. He received the Master degree in Control Science and Engineering from Wuhan University in 2020. His current research interests include optimization algorithms, game theory and data-driven control of complex networked systems.  
-[Research Graph](http://thuie-isda.github.io/images/xumingan.pdf)   
+[Research Graph](http://thuie-isda.github.io/images/xumingan.pdf) 
 
-### Haijie Xu  
+## **Alumni**
+### Peng Zhou  
+**Guizhou University**  
+<img src="/images/zhoupeng.jpeg" width="25%">  
+Peng Zhou is currently a lecturer with the School of Mechanical Engineering, Guizhou University, Guiyang, China. His current research interests include in Statistical modeling and monitoring for complex systems, Intelligent maintenance and health management.
 
-**Undergraduate Student**
+### Bingjie He  
+**UC Berkeley**  
+<img src="/images/hebingjie.jpeg" width="25%">  
+Bingjie He was a graduate student in Industrial Engineering, Tsinghua University. She received her Bachelor’s degree in Tsinghua University in 2020. Her research interest was transportation application, including urban flow prediction and anomaly detection.  
+[Research Graph](http://thuie-isda.github.io/images/何冰洁.pdf)
 
-<img src="/images/haijiexu.jpeg" width="25%">  
-Haijie Xu is an undergraduate student in the Department of Industrial Engineering of Tsinghua University. He is trying to figure out the research focus of his interest. It may be statistics and data analysis.  
-[Research Graph](http://thuie-isda.github.io/images/xhj.png)   
+### Congyu Han  
+**National University of Singapore**  
+<img src="/images/congyuhan.jpeg" width="25%">  
+Congyu Han was a Research Assistant in the Department of Industrial Engineering, Tsinghua University, China. She has graduated from the Master of Information Systems Management program (Business Intelligence & Data Analytics pathway) at Carnegie Mellon University in December 2020. Her research focuses on adaptive sampling in the context of deep learning framwork. 
