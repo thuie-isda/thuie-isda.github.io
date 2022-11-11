@@ -41,6 +41,13 @@ Peiyao Liu is currently a PhD student in the Department of Industrial Engineerin
 Haijie Xu is currently a PhD student in the Department of Industrial Engineering of Tsinghua University. He is trying to figure out the research focus of his interest. It may be statistics and data analysis.  
 [Research Graph](http://thuie-isda.github.io/images/xhj.png) 
 
+## ***M.S. Students***
+### Junpeng Lin  
+*M.S. Student*  
+<img src="/images/junpenglin.jpg" width="25%">  
+Junpeng Lin is currently a master student in the Department of Industrial Engineering of Tsinghua Unversity. He received his bachelor degree in Industrial Engineering from Tsinghua University in 2022. His current research interests include functional data, spatial-temporal data and deep learning.    
+[Research Graph](http://thuie-isda.github.io/images/junpenglin_rg.jpg)
+
 ## ***Research Assistants***
 
 ### Xuming An  
@@ -68,12 +75,12 @@ Xin Xia has graduated from the master program of Electrical and Computer Enginee
 Peng Zhou is currently a lecturer with the School of Mechanical Engineering, Guizhou University, Guiyang, China. His current research interests include in Statistical modeling and monitoring for complex systems, Intelligent maintenance and health management.
 
 ### Bingjie He  
-*Now in UC Berkeley*  
+*UC Berkeley*  
 <img src="/images/hebingjie.jpeg" width="25%">  
-Bingjie He was a graduate student in Industrial Engineering, Tsinghua University. She received her Bachelor’s degree in Tsinghua University in 2020. Her research interest was transportation application, including urban flow prediction and anomaly detection.  
+Bingjie He was a graduate student in Industrial Engineering, Tsinghua University. She received her Bachelor’s degree in Tsinghua University in 2020. Her research interest was transportation application, including urban flow prediction and anomaly detection. She is now pursuing her PhD degree in UC Berkeley, the US.
 [Research Graph](http://thuie-isda.github.io/images/何冰洁.pdf)
 
 ### Congyu Han  
-*Now in National University of Singapore*  
+*National University of Singapore*  
 <img src="/images/congyuhan.jpeg" width="25%">  
-Congyu Han was a Research Assistant in the Department of Industrial Engineering, Tsinghua University, China. She has graduated from the Master of Information Systems Management program (Business Intelligence & Data Analytics pathway) at Carnegie Mellon University in December 2020. Her research focuses on adaptive sampling in the context of deep learning framwork. 
+Congyu Han was a Research Assistant in the Department of Industrial Engineering, Tsinghua University, China. She has graduated from the Master of Information Systems Management program (Business Intelligence & Data Analytics pathway) at Carnegie Mellon University in December 2020. Her research focuses on adaptive sampling in the context of deep learning framwork. She is now pursuing her PhD degree in National University of Singapore. 
