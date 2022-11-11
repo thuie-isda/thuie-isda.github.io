@@ -65,7 +65,7 @@ Hao Qiu is currently Research Assistant in the Department of Industrial Engineer
 ### Xin Xia   
 *Research Assistant*   
 <img src="/images/xinxia.jpeg" width="25%">  
-Xin Xia has graduated from the master program of Electrical and Computer Engineering in Georgia Institute of Technology in 2022 and received his bachelor degree from Tianjin University, China in 2020. He is now serving as a Research Assistant in the Department of Industrial Engineering, Tsinghua University. His research interest focuses on deep reinforcement learning and multi-modal data fusion and feature extraction based on pretrained language model.  
+Xin Xia has graduated from the M.S. program of Electrical and Computer Engineering in Georgia Institute of Technology, the US, in 2022 and received his bachelor degree of Electrical Engineering and Automation from Tianjin University, China, in 2020. He is now serving as a Research Assistant in the Department of Industrial Engineering, Tsinghua University. His research interest focuses on deep reinforcement learning and multi-modal data fusion and feature extraction based on pretrained language model.  
 [Research Graph](http://thuie-isda.github.io/images/xinxia.pdf) 
 
 ## ***Alumni***
@@ -77,7 +77,7 @@ Peng Zhou is currently a lecturer with the School of Mechanical Engineering, Gui
 ### Bingjie He  
 *UC Berkeley*  
 <img src="/images/hebingjie.jpeg" width="25%">  
-Bingjie He was a graduate student in Industrial Engineering, Tsinghua University. She received her Bachelor’s degree in Tsinghua University in 2020. Her research interest was transportation application, including urban flow prediction and anomaly detection. She is now pursuing her PhD degree in UC Berkeley, the US.
+Bingjie He was a graduate student in Industrial Engineering, Tsinghua University. She received her Bachelor’s degree in Tsinghua University in 2020. Her research interest was transportation application, including urban flow prediction and anomaly detection. She is now pursuing her PhD degree in UC Berkeley, the US.  
 [Research Graph](http://thuie-isda.github.io/images/何冰洁.pdf)
 
 ### Congyu Han  
