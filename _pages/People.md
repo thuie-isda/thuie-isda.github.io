@@ -8,13 +8,20 @@ redirect_from:
 ---
 
 {% include base_path %}
+## ***Research Fellows***  
+
+### Yujie Ma
+*Postdoctoral Fellow*   
+<img src="/images/yjm.jpeg" width="20%">  
+Yujie Ma is a Postdoctoral Fellow in the Department of Industrial Engineering, Tsinghua University, China. She received the doctor degree in Management Science and Engineering at Tianjin University in December 2021. Her research focuses on reconfigurable process planning in open manufacturing, bi-level programming and deep reinforcement learning.   
+[Research Graph](http://thuie-isda.github.io/images/yujiema.jpeg)  
 
 ## ***PhD Students***
 
 ### Xing Yang  
 *Ph.D Student*  
 <img src="/images/yangxing.jpeg" width="20%">  
-Xing Yang received the B.S. degree in industrial engineering from Huazhong University of Science and Technology, Wuhan, Hubei Province, China, in 2016. Currently, she is pursuing the Ph.D. degree in industrial engineering, under the supervision of Dr. Chen Zhang, with the Department of Industrial Engineering in Tsinghua University, Beijing, China. Her research interests include Bayesian network, discrete event prediction, ontology modeling  
+Xing Yang received the B.S. degree in industrial engineering from Huazhong University of Science and Technology, Wuhan, Hubei Province, China, in 2016. Currently, she is pursuing the Ph.D. degree in industrial engineering, under the supervision of Dr. Chen Zhang, with the Department of Industrial Engineering in Tsinghua University, Beijing, China. Her research interests include Bayesian network, discrete event prediction, ontology modeling.  
 [Research Graph](http://thuie-isda.github.io/images/yangxing.pdf)  
 
 ### Wanshan Li      
