@@ -18,10 +18,10 @@ author_profile: true
 
 ## ***Referred Journals and Transactions***
 ***
-1. Zhou, P., and **Zhang, C**.* (2022) Functional state-space model for multi-channel autore- gressive profiles with application in advanced manufacturing, Journal of Manufacturing Systems, <https://doi.org/10.1016/j.jmsy.2022.06.014>.
-2. Li, Z., Yan, H., **Zhang, C**., and Tsung, F. (2022) Individualized Passenger Travel Pat- tern Multi-Clustering based on Graph Regularized Tensor Latent Dirichlet Allocation, Data Mining and Knowledge Discovery, 36, pages1247–1278.
-16. Guo, J., Yan, H., and **Zhang, C**.* (2022) A Bayesian Partially Observable Online Change Detection Approach with Thompson Sampling, Technometrics, online <https://doi.org/10.1080/00401706.2022.2127914>.
-15. Meng, H., Li, Y. F., and **Zhang, C**. (2022) Estimation of discharge voltage for lithium- ion batteries through orthogonal experiments at subzero environment, Journal of Energy Storage, 52(C), 10508.
+1. Zhou, P., and **Zhang, C**.* (2022). Functional state-space model for multi-channel autore- gressive profiles with application in advanced manufacturing, Journal of Manufacturing Systems, <https://doi.org/10.1016/j.jmsy.2022.06.014>.
+2. Li, Z., Yan, H., **Zhang, C**., and Tsung, F. (2022). Individualized Passenger Travel Pat- tern Multi-Clustering based on Graph Regularized Tensor Latent Dirichlet Allocation, Data Mining and Knowledge Discovery, 36, pages1247–1278.
+16. Guo, J., Yan, H., and **Zhang, C**.* (2022). A Bayesian Partially Observable Online Change Detection Approach with Thompson Sampling, Technometrics, online <https://doi.org/10.1080/00401706.2022.2127914>.
+15. Meng, H., Li, Y. F., and **Zhang, C**. (2022). Estimation of discharge voltage for lithium- ion batteries through orthogonal experiments at subzero environment, Journal of Energy Storage, 52(C), 10508.
 14. Wu, H., **Zhang, C**., and Li, Y F. (2021). Monitoring Heterogeneous Multivariate Profiles Based on Heterogeneous Graphical Model. Technometrics, 64(2), 210-223.
 16. Li, Z., Yan, H., **Zhang, C**., and Tsung, F. (2020). Long-short term spatiotemporal tensor prediction for passenger flow profile. IEEE Robotics and Automation Letters 5.4 (2020): 5010-5017. 
 18. **Zhang, C**. and Hoi, C.H. (2020). A Data-Driven Method for Online Monitoring Tube Wall Thinning Process in Dynamic Noisy Environment, in press, IEEE Transactions on Automation, Systems and Engineering, 2021.
@@ -39,9 +39,8 @@ author_profile: true
 
 ## ***Conferences***
 ***
-1. Zhang, W., **Zhang, C**.*, and Tsung, F. (2022) GRELEN: Multivariate Time Series Anomaly Detection from the Perspective of Graph Relational Learning, 31st Interna- tional Joint Conference on Artificial Intelligence, 2022.
+1. Zhang, W., **Zhang, C**.*, and Tsung, F. (2022). GRELEN: Multivariate Time Series Anomaly Detection from the Perspective of Graph Relational Learning, 31st Interna- tional Joint Conference on Artificial Intelligence, 2022.
 2. Zhang, W., **Zhang, C**., and Tsung, F., Transformer Based Spatial-Temporal Fusion Network for Metro Passenger Flow Forecasting, 2021 IEEE 17th International Conference on Automation Science and Engineering (CASE), 2021, pp. 1515-1520.
 3. He B, Li S, **Zhang, C**.*, Zheng B., and Tsung, F. Holistic Prediction for Public Transport Crowd Flows: A Spatio Dynamic Graph Network Approach, Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PCDD). Springer, Cham, 2021: 321-336.
 4. Li, Z., Yan, H., **Zhang, C**., and Tsung, F. Tensor Completion for Weakly-dependent Data on Graph for Metro Passenger Flow Prediction, 34th AAAI Conference on Artificial Intelligence (AAAI), 2020.
-5. **Zhang, C**., and Hoi, C.H. Online Learning for Partially Observable Multisensor Sequential Change Detection, 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019. 
-
+5. **Zhang, C**., and Hoi, C.H. Online Learning for Partially Observable Multisensor Sequential Change Detection, 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019.  
