@@ -41,6 +41,6 @@ author_profile: true
 ***
 1. Zhang, W., **Zhang, C**.*, and Tsung, F. (2022). GRELEN: Multivariate Time Series Anomaly Detection from the Perspective of Graph Relational Learning, 31st Interna- tional Joint Conference on Artificial Intelligence, 2022.
 2. Zhang, W., **Zhang, C**., and Tsung, F., Transformer Based Spatial-Temporal Fusion Network for Metro Passenger Flow Forecasting, 2021 IEEE 17th International Conference on Automation Science and Engineering (CASE), 2021, pp. 1515-1520.
-3. He B, Li S, **Zhang, C**.*, Zheng B., and Tsung, F. Holistic Prediction for Public Transport Crowd Flows: A Spatio Dynamic Graph Network Approach, Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PCDD). Springer, Cham, 2021: 321-336.
+3. He B, Li S, **Zhang, C**.*, Zheng B., and Tsung, F. Holistic Prediction for Public Transport Crowd Flows: A Spatio Dynamic Graph Network Approach, Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PCDD). Springer, Cham, 2021: 321-336. test.
 4. Li, Z., Yan, H., **Zhang, C**., and Tsung, F. Tensor Completion for Weakly-dependent Data on Graph for Metro Passenger Flow Prediction, 34th AAAI Conference on Artificial Intelligence (AAAI), 2020.
 5. **Zhang, C**., and Hoi, C.H. Online Learning for Partially Observable Multisensor Sequential Change Detection, 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019.  [code](https://github.com/thuie-isda/Bandit_EWMA_Code)
