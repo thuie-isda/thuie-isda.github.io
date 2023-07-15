@@ -43,4 +43,4 @@ author_profile: true
 2. Zhang, W., **Zhang, C**., and Tsung, F., Transformer Based Spatial-Temporal Fusion Network for Metro Passenger Flow Forecasting, 2021 IEEE 17th International Conference on Automation Science and Engineering (CASE), 2021, pp. 1515-1520.
 3. He B, Li S, **Zhang, C**.*, Zheng B., and Tsung, F. Holistic Prediction for Public Transport Crowd Flows: A Spatio Dynamic Graph Network Approach, Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PCDD). Springer, Cham, 2021: 321-336.
 4. Li, Z., Yan, H., **Zhang, C**., and Tsung, F. Tensor Completion for Weakly-dependent Data on Graph for Metro Passenger Flow Prediction, 34th AAAI Conference on Artificial Intelligence (AAAI), 2020.
-5. **Zhang, C**., and Hoi, C.H. Online Learning for Partially Observable Multisensor Sequential Change Detection, 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019.  
+5. **Zhang, C**., and Hoi, C.H. Online Learning for Partially Observable Multisensor Sequential Change Detection, 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019.  [code](https://github.com/thuie-isda/Bandit_EWMA_Code)
