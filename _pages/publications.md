@@ -18,7 +18,6 @@ author_profile: true
 
 ## ***Referred Journals***
 ***
-1. Zhou, P., and **Zhang, C**.* (2022). Functional state-space model for multi-channel autore- gressive profiles with application in advanced manufacturing, Journal of Manufacturing Systems, <https://doi.org/10.1016/j.jmsy.2022.06.014>.
 1.	An, X., Chua, J., Wang, Y., Hemelings, R., Husain R., Chong R., Wong T., Aung T., Wong D.*, **Zhang, C**.*, Schmetterer L.*, Addressing Glaucoma Structure-Function Relationship: A Multi-Task Learning Framework with Multi-Modal and Unpaired Data, IEEE Transactions on Medical Imaging, conditionally accepted. 
 2.	Liu, P., **Zhang, C**.* (2025), Stream of Variation Modeling and Monitoring for Heterogeneous Profiles in Multi-Stage Manufacturing Processes, IISE Transactions, 1-14.
 3.	Guo, J., Han, C., and **Zhang, C**.* (2025), MT-RAM: MultiTask-Recurrent Attention Model for Partially Observable Image Anomaly Classification and Localization, IISE Transactions, 1-16. 
