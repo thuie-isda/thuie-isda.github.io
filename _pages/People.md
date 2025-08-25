@@ -73,7 +73,7 @@ Jia Cao received her Master’s degree from the Department of Computer Science, 
 
 ## ***Alumni***
 ### Peng Zhou  
-*Guizhou University*  
+*Guizhou University* <br>
 <img src="/images/zhoupeng.jpeg" width="25%">  
 Peng Zhou is currently a associate professor at the School of Mechanical Engineering, Guizhou University, Guiyang, China. His current research interests include in Statistical modeling and monitoring for complex systems, Intelligent maintenance and health management.
 
@@ -95,13 +95,13 @@ Xing Yang is currently an associate researcher in Shenzhen University. She recei
 [Research Graph](http://thuie-isda.github.io/images/yangxing.pdf)  
 
 ### Wanshan Li
-*Jinan University*  
+*Jinan University* <br>
 <img src="/images/liwanshan.jpeg" width="25%">  
 Wanshan Li is currently a lecturer in Jinan University. She received her Ph.D. degree in the Department of Industrial Engineering, Tsinghua University, China, and her BSc in Control Science and Engineering from Shandong University, China. Her research focuses on maintenance strategies optimization of multiple‐component systems with complex networked structure.  
 [Research Graph](http://thuie-isda.github.io/images/lws.pdf)  
 
 ### Jie Guo
-*Nanjing University of Aeronautics and Astronautics*
+*Nanjing University of Aeronautics and Astronautics* <br>
 <img src="/images/guojie.jpeg" width="25%">  
 Jie Guo received her Ph.D. degree and bachelor degree in Industrial Engineering from Tsinghua University. And she is now an associate professor in Nanjing University of Aeronautics and Astronautics. Her interest research area is adaptive sampling, high dimensional data monitoring and reinforcement learning.  
 [Research Graph](http://thuie-isda.github.io/images/gj.pdf)  
