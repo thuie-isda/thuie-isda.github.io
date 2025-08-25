@@ -27,7 +27,7 @@ Yifei Gao is a Postdoctoral Fellow in the Department of Industrial Engineering, 
 
 ### Manrui Jiang
 *Postdoctoral Fellow*  
-<img src="/images/ManruiJiang.jpg" width="20%">  
+<img src="/images/ManruiJiang.jpg" width="25%">  
 Manrui Jiang is a Postdoctoral Fellow in the Department of Industrial Engineering, Tsinghua University, China. She received the doctor degree in School of Management and Engineerin at Capital University of Economics and Business in June 2024. Her research focuses on deep learning, complex networks, and financial risk management.
 [Research Graph](http://thuie-isda.github.io/images/ManruiJiang.pdf)  
 
