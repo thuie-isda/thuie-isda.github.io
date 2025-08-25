@@ -21,7 +21,7 @@ Yujie Ma is a Postdoctoral Fellow in the Department of Industrial Engineering at
 
 ### Yifei Gao
 *Postdoctoral Fellow*   
-<img src="/images/YifeiGao.jpeg" width="20%">  
+<img src="/images/YifeiGao.jpg" width="20%">  
 Yifei Gao is a Postdoctoral Fellow in the Department of Industrial Engineering, Tsinghua University, China. He received the Doctor of Engineering degree in Management Science and Engineering at Beijing University of Posts and Telecommunications in June 2024. His research focuses on deep learning-based time series and functional data analysis. 
 [Research Graph](http://thuie-isda.github.io/images/YifeiGao.pdf)  
 
