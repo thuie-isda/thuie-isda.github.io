@@ -89,18 +89,21 @@ Bingjie He was a graduate student in Industrial Engineering, Tsinghua University
 Congyu Han was a Research Assistant in the Department of Industrial Engineering, Tsinghua University, China. She has graduated from the Master of Information Systems Management program (Business Intelligence & Data Analytics pathway) at Carnegie Mellon University in December 2020. Her research focuses on adaptive sampling in the context of deep learning framwork. She is now pursuing her PhD degree in National University of Singapore. 
 
 ### Xing Yang  
+*Shenzhen University*  
 <img src="/images/yangxing.jpeg" width="20%">  
-Xing Yang received the B.S. degree in industrial engineering from Huazhong University of Science and Technology, Wuhan, Hubei Province, China, in 2016. Currently, she is pursuing the Ph.D. degree in industrial engineering, under the supervision of Dr. Chen Zhang, with the Department of Industrial Engineering in Tsinghua University, Beijing, China. Her research interests include Bayesian network, discrete event prediction, ontology modeling.  
+Xing Yang is currently an associate researcher in Shenzhen University. She received her Ph.D. degree in the Department of Industrial Engineering, Tsinghua University, and her B.S. degree in industrial engineering from Huazhong University of Science and Technology, Wuhan, Hubei Province, China, in 2016. Her research interests include Bayesian network, discrete event prediction, ontology modeling.  
 [Research Graph](http://thuie-isda.github.io/images/yangxing.pdf)  
 
-### Wanshan Li      
+### Wanshan Li
+*Jinan University*  
 <img src="/images/liwanshan.jpeg" width="25%">  
-Wanshan Li is currently a PhD student in the Department of Industrial Engineering, Tsinghua University, China. She received her BSc in Control Science and Engineering from Shandong University, China. Her research focuses on maintenance strategies optimization of multiple‐component systems with complex networked structure.  
+Wanshan Li is currently a lecturer in Jinan University. She received her Ph.D. degree in the Department of Industrial Engineering, Tsinghua University, China, and her BSc in Control Science and Engineering from Shandong University, China. Her research focuses on maintenance strategies optimization of multiple‐component systems with complex networked structure.  
 [Research Graph](http://thuie-isda.github.io/images/lws.pdf)  
 
-### Jie Guo  
+### Jie Guo
+*Nanjing University of Aeronautics and Astronautics*
 <img src="/images/guojie.jpeg" width="25%">  
-Jie Guo received her bachelor degree in Industrial Engineering from Tsinghua University. And she is now a Ph.D student in Industrial Engineering of Tsinghua University. Her interest research area is adaptive sampling, high dimensional data monitoring and reinforcement learning.  
+Jie Guo received her Ph.D. degree and bachelor degree in Industrial Engineering from Tsinghua University. And she is now an associate professor in Nanjing University of Aeronautics and Astronautics. Her interest research area is adaptive sampling, high dimensional data monitoring and reinforcement learning.  
 [Research Graph](http://thuie-isda.github.io/images/gj.pdf)  
 
 ### Peiyao Liu  
