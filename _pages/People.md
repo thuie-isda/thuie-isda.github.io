@@ -102,6 +102,7 @@ Wanshan Li is currently a lecturer in Jinan University. She received her Ph.D. d
 
 ### Jie Guo
 *Nanjing University of Aeronautics and Astronautics* <br>
+
 <img src="/images/guojie.jpeg" width="25%">  
 Jie Guo received her Ph.D. degree and bachelor degree in Industrial Engineering from Tsinghua University. And she is now an associate professor in Nanjing University of Aeronautics and Astronautics. Her interest research area is adaptive sampling, high dimensional data monitoring and reinforcement learning.  
 [Research Graph](http://thuie-isda.github.io/images/gj.pdf)  
