@@ -51,10 +51,10 @@ Xuming An is currently a Ph.D Student in the Department of Industrial Engineerin
 ### Yimeng Lu
 *Ph.D Student* 
 
-### Haoduong Le
+### Hao Duong Le
 *Ph.D Student* <br>
 <img src="/images/HaoDuongLe.jpg" width="20%">  
-Haoduong Le is a PhD candidate in the Industrial Engineering Department at Tsinghua University, focusing his research on deep learning foundation models, large language models (LLMs), and time series foundational models. He holds a Bachelor of Arts in Applied Foreign Languages from the Taiwan University of Science and Technology and a Master of Science in Engineering from Tsinghua University.
+Hao Duong Le is a PhD candidate in the Industrial Engineering Department at Tsinghua University, focusing his research on deep learning foundation models, large language models (LLMs), and time series foundational models. He holds a Bachelor of Arts in Applied Foreign Languages from the Taiwan University of Science and Technology and a Master of Science in Engineering from Tsinghua University.
 
 ## ***M.S. Students***
 
