@@ -121,7 +121,6 @@ Junpeng Lin is currently an Algorithm Engineer at Huawei Technologies Co., Ltd.,
 <img src="/images/xinxia.jpeg" width="25%">  
 Xin Xia has graduated from the M.S. program of Electrical and Computer Engineering in Georgia Institute of Technology, the US, in 2022 and received his bachelor degree of Electrical Engineering and Automation from Tianjin University, China, in 2020. He is now serving as a Research Assistant in the Department of Industrial Engineering, Tsinghua University. His research interest focuses on deep reinforcement learning and multi-modal data fusion and feature extraction based on pretrained language model.  
 [Research Graph](http://thuie-isda.github.io/images/xinxia.pdf) 
-<img width="468" height="652" alt="image" src="https://github.com/user-attachments/assets/6c76ad89-af0d-472d-adc2-f67f514c3339" />
 
 ### Hao Qiu   
 <img src="/images/hao qiu.jpeg" width="25%">  
