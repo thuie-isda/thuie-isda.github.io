@@ -13,73 +13,69 @@ redirect_from:
 ### Yujie Ma
 *Postdoctoral Fellow*   
 <img src="/images/yjm.jpeg" width="20%">  
-Yujie Ma is a Postdoctoral Fellow in the Department of Industrial Engineering, Tsinghua University, China. She received the doctor degree in Management Science and Engineering at Tianjin University in December 2021. Her research focuses on reconfigurable process planning in open manufacturing, bi-level programming and deep reinforcement learning.   
+Yujie Ma is a Postdoctoral Fellow in the Department of Industrial Engineering at Tsinghua University, China. She received her Ph.D. in Management Science and Engineering from Tianjin University in January 2022. Her research interests include supply chain resilience, bi-level programming, and deep reinforcement learning.
 [Research Graph](http://thuie-isda.github.io/images/yujiema.jpeg)  
 
+### Bo Zhang
+*Postdoctoral Fellow*  
+
+### Yifei Gao
+*Postdoctoral Fellow*   
+<img src="/images/YifeiGao.jpeg" width="20%">  
+Yifei Gao is a Postdoctoral Fellow in the Department of Industrial Engineering, Tsinghua University, China. He received the Doctor of Engineering degree in Management Science and Engineering at Beijing University of Posts and Telecommunications in June 2024. His research focuses on deep learning-based time series and functional data analysis. 
+[Research Graph](http://thuie-isda.github.io/images/YifeiGao.pdf)  
+
+### Manrui Jiang
+*Postdoctoral Fellow*  
+<img src="/images/ManruiJiang.jpg" width="20%">  
+Manrui Jiang is a Postdoctoral Fellow in the Department of Industrial Engineering, Tsinghua University, China. She received the doctor degree in School of Management and Engineerin at Capital University of Economics and Business in June 2024. Her research focuses on deep learning, complex networks, and financial risk management.
+[Research Graph](http://thuie-isda.github.io/images/ManruiJiang.pdf)  
+
 ## ***PhD Students***
-
-### Xing Yang  
-*Ph.D Student*  
-<img src="/images/yangxing.jpeg" width="20%">  
-Xing Yang received the B.S. degree in industrial engineering from Huazhong University of Science and Technology, Wuhan, Hubei Province, China, in 2016. Currently, she is pursuing the Ph.D. degree in industrial engineering, under the supervision of Dr. Chen Zhang, with the Department of Industrial Engineering in Tsinghua University, Beijing, China. Her research interests include Bayesian network, discrete event prediction, ontology modeling.  
-[Research Graph](http://thuie-isda.github.io/images/yangxing.pdf)  
-
-### Wanshan Li      
-*Ph.D Student*  
-<img src="/images/liwanshan.jpeg" width="25%">  
-Wanshan Li is currently a PhD student in the Department of Industrial Engineering, Tsinghua University, China. She received her BSc in Control Science and Engineering from Shandong University, China. Her research focuses on maintenance strategies optimization of multiple‐component systems with complex networked structure.  
-[Research Graph](http://thuie-isda.github.io/images/lws.pdf)  
-
-### Jie Guo  
-*Ph.D Student*  
-<img src="/images/guojie.jpeg" width="25%">  
-Jie Guo received her bachelor degree in Industrial Engineering from Tsinghua University. And she is now a Ph.D student in Industrial Engineering of Tsinghua University. Her interest research area is adaptive sampling, high dimensional data monitoring and reinforcement learning.  
-[Research Graph](http://thuie-isda.github.io/images/gj.pdf)  
-
-### Peiyao Liu  
-*Ph.D Student*  
-<img src="/images/peiyaoliu.jpeg" width="25%">  
-Peiyao Liu is currently a PhD student in the Department of Industrial Engineering, Tsinghua University. She recieved her Bachelor's degree in Control Technology and Instruments from Tsinghua University in 2020. Her research focus on multi-channel profiles monitoring, state space modeling and deep learning.  
-[Research Graph](http://thuie-isda.github.io/images/lpy.pdf)  
 
 ### Haijie Xu  
 *Ph.D Student*  
 <img src="/images/haijiexu.jpeg" width="25%">  
-Haijie Xu is currently a PhD student in the Department of Industrial Engineering of Tsinghua University. He is trying to figure out the research focus of his interest. It may be statistics and data analysis.  
+Haijie Xu is currently a PhD student in the Department of Industrial Engineering of Tsinghua University. His research focuses on change point detection, functionl data analysis, tensor data analysis and causal inference.
 [Research Graph](http://thuie-isda.github.io/images/xhj.png) 
 
+### Tian Lan
+*Ph.D Student* 
+
+### Xuming An  
+*Ph.D Student* 
+<img src="/images/xumingan.jpeg" width="25%">  
+Xuming An is currently a Ph.D Student in the Department of Industrial Engineering, Tsinghua University. He received the Master degree in Control Science and Engineering from Wuhan University in 2020. His current research interests include optimization algorithms, game theory and data-driven control of complex networked systems.  
+[Research Graph](http://thuie-isda.github.io/images/xumingan.pdf) 
+
+### Yimeng Lu
+*Ph.D Student* 
+
+### Haoduong Le
+*Ph.D Student* 
+<img src="/images/HaoDuongLe.jpg" width="25%">  
+Haoduong Le is a PhD candidate in the Industrial Engineering Department at Tsinghua University, focusing his research on deep learning foundation models, large language models (LLMs), and time series foundational models. He holds a Bachelor of Arts in Applied Foreign Languages from the Taiwan University of Science and Technology and a Master of Science in Engineering from Tsinghua University.
+
 ## ***M.S. Students***
-### Junpeng Lin  
-*M.S. Student*  
-<img src="/images/junpenglin.jpg" width="25%">  
-Junpeng Lin is currently a master student in the Department of Industrial Engineering of Tsinghua Unversity. He received his bachelor degree in Industrial Engineering from Tsinghua University in 2022. His current research interests include functional data, spatial-temporal data and deep learning.    
-[Research Graph](http://thuie-isda.github.io/images/junpenglin_rg.jpg)
 
 ## ***Research Assistants***
 
-### Xuming An  
-*Research Assistant*  
-<img src="/images/xumingan.jpeg" width="25%">  
-Xuming An is currently a Research Assistant in the Department of Industrial Engineering, Tsinghua University. He received the Master degree in Control Science and Engineering from Wuhan University in 2020. His current research interests include optimization algorithms, game theory and data-driven control of complex networked systems.  
-[Research Graph](http://thuie-isda.github.io/images/xumingan.pdf) 
+### Jingru Huang
+*Research Assistant* 
 
-### Hao Qiu  
-*Research Assistant*   
-<img src="/images/hao qiu.jpeg" width="25%">  
-Hao Qiu is currently Research Assistant in the Department of Industrial Engineering at Tsinghua University. He holds a Master of Statistics from Rice University and a B.S. in Actuarial Science and B.S. in Economics from University of Delaware. His current research focuses on Time Series/ Spatial-Temporal data, Statistical Learning, and Stochastic Process Modeling and Estimation.  
-[Research Graph](http://thuie-isda.github.io/images/haoqiu.pdf) 
+### Jia Cao
+*Research Assistant* 
+<img src="/images/JiaCao.jpg" width="25%">  
+Cao Jia received her Master’s degree from the Department of Computer Science, Faculty of Engineering, The University of Hong Kong, and her Bachelor’s degree from the School of Software, Dalian University of Technology. She is currently a research assistant at the Department of Industrial Engineering, Tsinghua University. Her research interests include video anomaly detection, medical image analysis, and medical large language models.
 
-### Xin Xia   
-*Research Assistant*   
-<img src="/images/xinxia.jpeg" width="25%">  
-Xin Xia has graduated from the M.S. program of Electrical and Computer Engineering in Georgia Institute of Technology, the US, in 2022 and received his bachelor degree of Electrical Engineering and Automation from Tianjin University, China, in 2020. He is now serving as a Research Assistant in the Department of Industrial Engineering, Tsinghua University. His research interest focuses on deep reinforcement learning and multi-modal data fusion and feature extraction based on pretrained language model.  
-[Research Graph](http://thuie-isda.github.io/images/xinxia.pdf) 
+### Yingyuan Yang
+*Research Assistant* 
 
 ## ***Alumni***
 ### Peng Zhou  
 *Guizhou University*  
 <img src="/images/zhoupeng.jpeg" width="25%">  
-Peng Zhou is currently a lecturer with the School of Mechanical Engineering, Guizhou University, Guiyang, China. His current research interests include in Statistical modeling and monitoring for complex systems, Intelligent maintenance and health management.
+Peng Zhou is currently a associate professor at the School of Mechanical Engineering, Guizhou University, Guiyang, China. His current research interests include in Statistical modeling and monitoring for complex systems, Intelligent maintenance and health management.
 
 ### Bingjie He  
 *UC Berkeley*  
@@ -91,3 +87,46 @@ Bingjie He was a graduate student in Industrial Engineering, Tsinghua University
 *National University of Singapore*  
 <img src="/images/congyuhan.jpeg" width="25%">  
 Congyu Han was a Research Assistant in the Department of Industrial Engineering, Tsinghua University, China. She has graduated from the Master of Information Systems Management program (Business Intelligence & Data Analytics pathway) at Carnegie Mellon University in December 2020. Her research focuses on adaptive sampling in the context of deep learning framwork. She is now pursuing her PhD degree in National University of Singapore. 
+
+### Xing Yang  
+<img src="/images/yangxing.jpeg" width="20%">  
+Xing Yang received the B.S. degree in industrial engineering from Huazhong University of Science and Technology, Wuhan, Hubei Province, China, in 2016. Currently, she is pursuing the Ph.D. degree in industrial engineering, under the supervision of Dr. Chen Zhang, with the Department of Industrial Engineering in Tsinghua University, Beijing, China. Her research interests include Bayesian network, discrete event prediction, ontology modeling.  
+[Research Graph](http://thuie-isda.github.io/images/yangxing.pdf)  
+
+### Wanshan Li      
+<img src="/images/liwanshan.jpeg" width="25%">  
+Wanshan Li is currently a PhD student in the Department of Industrial Engineering, Tsinghua University, China. She received her BSc in Control Science and Engineering from Shandong University, China. Her research focuses on maintenance strategies optimization of multiple‐component systems with complex networked structure.  
+[Research Graph](http://thuie-isda.github.io/images/lws.pdf)  
+
+### Jie Guo  
+<img src="/images/guojie.jpeg" width="25%">  
+Jie Guo received her bachelor degree in Industrial Engineering from Tsinghua University. And she is now a Ph.D student in Industrial Engineering of Tsinghua University. Her interest research area is adaptive sampling, high dimensional data monitoring and reinforcement learning.  
+[Research Graph](http://thuie-isda.github.io/images/gj.pdf)  
+
+### Peiyao Liu  
+*National University of Singapore*  
+<img src="/images/liupeiyao.jpeg" width="25%">  
+Peiyao Liu received her Ph.D. in Industrial Engineering in 2025 (advised by Dr. Chen Zhang) and her B.Eng. in Precision Instrument in 2020, both from Tsinghua University. Her research focuses on functional data analysis, tensor decomposition, Gaussian processes, state space models, and Bayesian networks, with applications in advanced manufacturing and medical testing. Dr. Liu has published in leading international journals in Quality, Statistics, and Reliability, including IISE Transactions, Journal of Quality Technology, and IEEE Transactions on Knowledge and Data Engineering. Her work has been recognized with multiple prestigious awards, including the ICQSR, INFORMS-DMDA, INFORMS-QSR, IISE-QCRE, and QRSE.
+Currently, she is a Research Fellow in the Department of Industrial Systems Engineering and Management at the National University of Singapore, working under the guidance of Dr. Nan Chen. 
+[Research Graph](http://thuie-isda.github.io/images/PeiyaoLiu.pdf)  
+
+### Junpeng Lin  
+*Huawei Technologies Co., Ltd.*  
+<img src="/images/junpenglin.jpg" width="25%">  
+Junpeng Lin is currently an Algorithm Engineer at Huawei Technologies Co., Ltd., focusing on communication network operations and maintenance. He received his Master of Engineering degree in Management Science and Engineering from Tsinghua University in 2025. Prior to that, he obtained his Bachelor of Engineering degree in Industrial Engineering from Tsinghua University in 2022. During his graduate studies, his research interests included spatiotemporal data modeling and deep learning.
+[Research Graph](http://thuie-isda.github.io/images/junpenglin_rg.jpg)
+
+### Xin Xia   
+*University of Wisconsin–Madison*   
+<img src="/images/xinxia.jpeg" width="25%">  
+Xin Xia has graduated from the M.S. program of Electrical and Computer Engineering in Georgia Institute of Technology, the US, in 2022 and received his bachelor degree of Electrical Engineering and Automation from Tianjin University, China, in 2020. He is now serving as a Research Assistant in the Department of Industrial Engineering, Tsinghua University. His research interest focuses on deep reinforcement learning and multi-modal data fusion and feature extraction based on pretrained language model.  
+[Research Graph](http://thuie-isda.github.io/images/xinxia.pdf) 
+<img width="468" height="652" alt="image" src="https://github.com/user-attachments/assets/6c76ad89-af0d-472d-adc2-f67f514c3339" />
+
+### Hao Qiu   
+<img src="/images/hao qiu.jpeg" width="25%">  
+Hao Qiu was once a Research Assistant in the Department of Industrial Engineering at Tsinghua University. He holds a Master of Statistics from Rice University and a B.S. in Actuarial Science and B.S. in Economics from University of Delaware. His research focuses on Time Series/ Spatial-Temporal data, Statistical Learning, and Stochastic Process Modeling and Estimation.  
+[Research Graph](http://thuie-isda.github.io/images/haoqiu.pdf) 
+
+
+
