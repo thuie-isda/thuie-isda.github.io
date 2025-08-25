@@ -44,7 +44,7 @@ Haijie Xu is currently a PhD student in the Department of Industrial Engineering
 
 ### Xuming An  
 *Ph.D Student* <br>
-<img src="/images/xumingan.jpeg" width="25%">  
+<img src="/images/xumingan.jpeg" width="20%">  
 Xuming An is currently a Ph.D Student in the Department of Industrial Engineering, Tsinghua University. He received the Master degree in Control Science and Engineering from Wuhan University in 2020. His current research interests include optimization algorithms, game theory and data-driven control of complex networked systems.  
 [Research Graph](http://thuie-isda.github.io/images/xumingan.pdf) 
 
@@ -53,7 +53,7 @@ Xuming An is currently a Ph.D Student in the Department of Industrial Engineerin
 
 ### Haoduong Le
 *Ph.D Student* <br>
-<img src="/images/HaoDuongLe.jpg" width="25%">  
+<img src="/images/HaoDuongLe.jpg" width="20%">  
 Haoduong Le is a PhD candidate in the Industrial Engineering Department at Tsinghua University, focusing his research on deep learning foundation models, large language models (LLMs), and time series foundational models. He holds a Bachelor of Arts in Applied Foreign Languages from the Taiwan University of Science and Technology and a Master of Science in Engineering from Tsinghua University.
 
 ## ***M.S. Students***
@@ -65,8 +65,8 @@ Haoduong Le is a PhD candidate in the Industrial Engineering Department at Tsing
 
 ### Jia Cao
 *Research Assistant* <br>
-<img src="/images/JiaCao.jpg" width="25%">  
-Cao Jia received her Master’s degree from the Department of Computer Science, Faculty of Engineering, The University of Hong Kong, and her Bachelor’s degree from the School of Software, Dalian University of Technology. She is currently a research assistant at the Department of Industrial Engineering, Tsinghua University. Her research interests include video anomaly detection, medical image analysis, and medical large language models.
+<img src="/images/JiaCao.jpg" width="20%">  
+Jia Cao received her Master’s degree from the Department of Computer Science, Faculty of Engineering, The University of Hong Kong, and her Bachelor’s degree from the School of Software, Dalian University of Technology. She is currently a research assistant at the Department of Industrial Engineering, Tsinghua University. Her research interests include video anomaly detection, medical image analysis, and medical large language models.
 
 ### Yingyuan Yang
 *Research Assistant* 
@@ -105,7 +105,7 @@ Jie Guo received her bachelor degree in Industrial Engineering from Tsinghua Uni
 
 ### Peiyao Liu  
 *National University of Singapore* <br>
-<img src="/images/liupeiyao.jpg" width="25%">  
+<img src="/images/liupeiyao.jpg" width="20%">  
 Peiyao Liu received her Ph.D. in Industrial Engineering in 2025 (advised by Dr. Chen Zhang) and her B.Eng. in Precision Instrument in 2020, both from Tsinghua University. Her research focuses on functional data analysis, tensor decomposition, Gaussian processes, state space models, and Bayesian networks, with applications in advanced manufacturing and medical testing. Dr. Liu has published in leading international journals in Quality, Statistics, and Reliability, including IISE Transactions, Journal of Quality Technology, and IEEE Transactions on Knowledge and Data Engineering. Her work has been recognized with multiple prestigious awards, including the ICQSR, INFORMS-DMDA, INFORMS-QSR, IISE-QCRE, and QRSE.
 Currently, she is a Research Fellow in the Department of Industrial Systems Engineering and Management at the National University of Singapore, working under the guidance of Dr. Nan Chen. 
 [Research Graph](http://thuie-isda.github.io/images/PeiyaoLiu.pdf)  
@@ -118,12 +118,12 @@ Junpeng Lin is currently an Algorithm Engineer at Huawei Technologies Co., Ltd.,
 
 ### Xin Xia   
 *University of Wisconsin–Madison* <br>
-<img src="/images/xinxia.jpeg" width="25%">  
-Xin Xia has graduated from the M.S. program of Electrical and Computer Engineering in Georgia Institute of Technology, the US, in 2022 and received his bachelor degree of Electrical Engineering and Automation from Tianjin University, China, in 2020. He is now serving as a Research Assistant in the Department of Industrial Engineering, Tsinghua University. His research interest focuses on deep reinforcement learning and multi-modal data fusion and feature extraction based on pretrained language model.  
+<img src="/images/xinxia.jpeg" width="20%">  
+Xin Xia has graduated from the M.S. program of Electrical and Computer Engineering in Georgia Institute of Technology, the US, in 2022 and received his bachelor degree of Electrical Engineering and Automation from Tianjin University, China, in 2020. He was a Research Assistant in the Department of Industrial Engineering, Tsinghua University. His research interest focuses on deep reinforcement learning and multi-modal data fusion and feature extraction based on pretrained language model. He is now pursuing his PhD degree in University of Wisconsin–Madison. 
 [Research Graph](http://thuie-isda.github.io/images/xinxia.pdf) 
 
 ### Hao Qiu
-<img src="/images/hao qiu.jpeg" width="25%"> 
+<img src="/images/hao qiu.jpeg" width="20%"> 
 
 Hao Qiu was once a Research Assistant in the Department of Industrial Engineering at Tsinghua University. He holds a Master of Statistics from Rice University and a B.S. in Actuarial Science and B.S. in Economics from University of Delaware. His research focuses on Time Series/ Spatial-Temporal data, Statistical Learning, and Stochastic Process Modeling and Estimation.  
 [Research Graph](http://thuie-isda.github.io/images/haoqiu.pdf)
