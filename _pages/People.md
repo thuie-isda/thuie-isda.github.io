@@ -105,7 +105,7 @@ Jie Guo received her bachelor degree in Industrial Engineering from Tsinghua Uni
 
 ### Peiyao Liu  
 *National University of Singapore* <br>
-<img src="/images/liupeiyao.jpeg" width="25%">  
+<img src="/images/liupeiyao.jpg" width="25%">  
 Peiyao Liu received her Ph.D. in Industrial Engineering in 2025 (advised by Dr. Chen Zhang) and her B.Eng. in Precision Instrument in 2020, both from Tsinghua University. Her research focuses on functional data analysis, tensor decomposition, Gaussian processes, state space models, and Bayesian networks, with applications in advanced manufacturing and medical testing. Dr. Liu has published in leading international journals in Quality, Statistics, and Reliability, including IISE Transactions, Journal of Quality Technology, and IEEE Transactions on Knowledge and Data Engineering. Her work has been recognized with multiple prestigious awards, including the ICQSR, INFORMS-DMDA, INFORMS-QSR, IISE-QCRE, and QRSE.
 Currently, she is a Research Fellow in the Department of Industrial Systems Engineering and Management at the National University of Singapore, working under the guidance of Dr. Nan Chen. 
 [Research Graph](http://thuie-isda.github.io/images/PeiyaoLiu.pdf)  
@@ -117,15 +117,17 @@ Junpeng Lin is currently an Algorithm Engineer at Huawei Technologies Co., Ltd.,
 [Research Graph](http://thuie-isda.github.io/images/junpenglin_rg.jpg)
 
 ### Xin Xia   
-*University of Wisconsin–Madison* <br>  
+*University of Wisconsin–Madison* <br>
 <img src="/images/xinxia.jpeg" width="25%">  
 Xin Xia has graduated from the M.S. program of Electrical and Computer Engineering in Georgia Institute of Technology, the US, in 2022 and received his bachelor degree of Electrical Engineering and Automation from Tianjin University, China, in 2020. He is now serving as a Research Assistant in the Department of Industrial Engineering, Tsinghua University. His research interest focuses on deep reinforcement learning and multi-modal data fusion and feature extraction based on pretrained language model.  
 [Research Graph](http://thuie-isda.github.io/images/xinxia.pdf) 
 
-### Hao Qiu   
-<img src="/images/hao qiu.jpeg" width="25%">  
+### Hao Qiu
+<img src="/images/hao qiu.jpeg" width="25%"> 
+
 Hao Qiu was once a Research Assistant in the Department of Industrial Engineering at Tsinghua University. He holds a Master of Statistics from Rice University and a B.S. in Actuarial Science and B.S. in Economics from University of Delaware. His research focuses on Time Series/ Spatial-Temporal data, Statistical Learning, and Stochastic Process Modeling and Estimation.  
-[Research Graph](http://thuie-isda.github.io/images/haoqiu.pdf) 
+[Research Graph](http://thuie-isda.github.io/images/haoqiu.pdf)
+
 
 
 
