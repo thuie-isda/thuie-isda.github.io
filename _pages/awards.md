@@ -35,3 +35,4 @@ redirect_from:
 •	Best Paper Award in IISE Transactions for the paper “State space modeling of autocorrelated multivariate Poisson counts. IISE Transactions,” 2018. <br>
 •	Winner of 2017 INFORMS Data Mining Best Paper Competition, for the paper “Dynamic Multivariate Functional data Modeling via Sparse Subspace Learning”. <br>
 •	Winner of 2017 INFORMS QSR Best Student Poster Competition, for the paper “Multichannel Profile Monitoring based on Sparse Multichannel Functional Principal Component Analysis”. <br>
+
