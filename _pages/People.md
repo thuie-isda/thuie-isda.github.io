@@ -40,7 +40,10 @@ Haijie Xu is currently a PhD student in the Department of Industrial Engineering
 [Research Graph](http://thuie-isda.github.io/images/xhj.png) 
 
 ### Tian Lan
-*Ph.D Student* 
+*Ph.D Student* <br>
+<img src="/images/lantian.jpg" width="20%">  
+Tian Lan is a PhD student in the department of Industrial Engineering. His research focuses on multimodal LLM and time-series anomaly detection.
+
 
 ### Xuming An  
 *Ph.D Student* <br>
@@ -102,7 +105,6 @@ Wanshan Li is currently a lecturer in Jinan University. She received her Ph.D. d
 
 ### Jie Guo
 *Nanjing University of Aeronautics and Astronautics* <br>
-
 <img src="/images/guojie.jpeg" width="25%">  
 Jie Guo received her Ph.D. degree and bachelor degree in Industrial Engineering from Tsinghua University. And she is now an associate professor in Nanjing University of Aeronautics and Astronautics. Her interest research area is adaptive sampling, high dimensional data monitoring and reinforcement learning.  
 [Research Graph](http://thuie-isda.github.io/images/gj.pdf)  
@@ -122,7 +124,7 @@ Junpeng Lin is currently an Algorithm Engineer at Huawei Technologies Co., Ltd.,
 
 ### Xin Xia   
 *University of Wisconsin–Madison* <br>
-<img src="/images/xinxia.jpg" width="20%">  
+<img src="/images/xinxia.jpg" width="22%">  
 Xin Xia has graduated from the M.S. program of Electrical and Computer Engineering in Georgia Institute of Technology, the US, in 2022 and received his bachelor degree of Electrical Engineering and Automation from Tianjin University, China, in 2020. He was a Research Assistant in the Department of Industrial Engineering, Tsinghua University. His research interest focuses on deep reinforcement learning and multi-modal data fusion and feature extraction based on pretrained language model. He is now pursuing his PhD degree in University of Wisconsin–Madison. 
 [Research Graph](http://thuie-isda.github.io/images/xinxia.pdf) 
 
