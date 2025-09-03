@@ -37,7 +37,7 @@ Manrui Jiang is a Postdoctoral Fellow in the Department of Industrial Engineerin
 *Ph.D Student*  
 <img src="/images/haijiexu.jpeg" width="25%">  
 Haijie Xu is currently a PhD student in the Department of Industrial Engineering of Tsinghua University. His research focuses on change point detection, functionl data analysis, tensor data analysis and causal inference.
-[Research Graph](http://thuie-isda.github.io/images/xhj.png) 
+[Research Graph](http://thuie-isda.github.io/images/WorkingGraph.pdf) 
 
 ### Tian Lan
 *Ph.D Student* <br>
